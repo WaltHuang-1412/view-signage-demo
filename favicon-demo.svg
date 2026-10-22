@@ -1,0 +1,10 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="demoFaviconBg" x1="0" y1="0" x2="48" y2="48" gradientUnits="userSpaceOnUse">
+<stop stop-color="#2A75EC"/>
+<stop offset="1" stop-color="#0D3CA1"/>
+</linearGradient>
+</defs>
+<rect width="48" height="48" rx="12" fill="url(#demoFaviconBg)"/>
+<path d="M19 14L35 24L19 34V14Z" fill="white" stroke="white" stroke-width="4" stroke-linejoin="round"/>
+</svg>

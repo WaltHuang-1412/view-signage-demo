@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+# 允許搜尋引擎索引網站
+Sitemap: https://your-domain.com/sitemap.xml
+
+# 如果有不想被索引的路徑可以加入
+# Disallow: /admin/
+# Disallow: /api/
